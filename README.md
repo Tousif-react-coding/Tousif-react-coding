@@ -1,4 +1,4 @@
-Hi 👋 My name is Tousif Ansari
+Hi 👋 My name is Tousif Ansari,
 React js Developer
 I'm a very young and passionate web developer. In 2022 I started learning coding with html and css and slowly got interest in react and so now I'm a full time react js developer . Recently I started learning the backend and database too . Hopefully I'll be a full stack developer in a few weeks
 
