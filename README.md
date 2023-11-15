@@ -8,4 +8,4 @@ I'm a very young and passionate web developer. In 2022 I started learning coding
 🤝  I'm open to collaborating on interesting projects
 ⚡  I'm more than this bio , don't tell anyone
 Skills
-Javascript HTML5 React NextJs CSS3 TailwindCSS Material UI Redux NodeJS Express GraphQL MongoDB .
+Javascript, HTML5, React js, NextJs CSS3 ,Bootstrap,TailwindCSS ,Material UI, NodeJS, Express and MongoDB .
